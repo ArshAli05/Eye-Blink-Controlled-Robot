@@ -62,3 +62,52 @@ A real-time assistive robotics project that enables hands-free robot control usi
 | IN3            | 9          |
 | IN4            | 10         |
 
+▶️ How to Run
+
+1. Upload code using Arduino IDE
+2. Keep sensor stable for initial calibration
+3. Perform blinks to control robot:
+   - 1 blink → forward
+   - 2 blinks → backward
+   - 3 blinks → right
+   - 4 blinks → left
+
+---
+
+⚠️ Important Notes
+
+- Adjust `spikeThreshold` (60–110) based on noise
+- Ensure proper sensor placement near eye muscle
+- Use stable power supply to avoid false triggers
+
+---
+
+📈 Future Improvements
+
+- 🤖 Machine Learning-based blink classification
+- 📱 Mobile app integration (Bluetooth/WiFi)
+- 🎮 Real-time dashboard monitoring
+- 🔋 Battery optimization
+
+---
+
+📌 Applications
+
+- Assistive technology for disabled individuals
+- Human-computer interaction (HCI)
+- Robotics & automation research
+- Smart wheelchair systems
+
+---
+
+🙋‍♂️ Author
+
+Mohammad Arshi Ali 
+- Engineering Student | AI & Automation Enthusiast  
+- Skilled in Python, Machine Learning, Embedded Systems  
+
+---
+
+⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
