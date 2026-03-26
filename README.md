@@ -62,8 +62,3 @@ A real-time assistive robotics project that enables hands-free robot control usi
 | IN3            | 9          |
 | IN4            | 10         |
 
----
-
-💻 Code
-
-Main Arduino code is available in:
